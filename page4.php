@@ -8,5 +8,8 @@
   </head>
     <body>
       <p>Test Paragraph for page 4</p>
+      <div>
+        This is a test div
+      </div>
     </body>
 </html>
