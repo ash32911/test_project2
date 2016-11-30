@@ -7,6 +7,6 @@
     <title>Test Page 1</title>
   </head>
     <body>
-      <p>Test Paragraph and message</p>
+      <p>Test Paragraph</p>
     </body>
 </html>
