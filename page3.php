@@ -1,12 +1,12 @@
 <?php
 
-  echo "<h1>Test PHP File 2</h1>"
+  echo "<h1>Test PHP File 3</h1>"
 ?>
 <html>
   <head>
-    <title>Test Page 2</title>
+    <title>Test Page 3</title>
   </head>
     <body>
-      <p>Test Paragraph</p>
+      <p>Test Paragraph for page 3</p>
     </body>
 </html>
